@@ -19,6 +19,15 @@ The component structure of the app is simple, we have a main component called `A
   - Footer
 
 ## Future
+#### Core Logic
+The current implementation uses eval function which will be removed in future.
+A stack based approach will be implemented.
+
+#### UI
+The current implementation is a very basic UI.
+A new intutive layout of the calculator will be implemented.
+
+#### Features
 The list of features that I might develop in future:
 
 - Advance Calculations
