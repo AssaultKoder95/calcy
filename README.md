@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/AssaultKoder95/calcy.svg?branch=master)](https://travis-ci.com/AssaultKoder95/calcy)
+
 # Calcy - The Ultimate Calculator
 A demo react app of our most famous web applications - Calculator
 
