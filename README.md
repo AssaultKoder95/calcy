@@ -19,6 +19,7 @@ The component structure of the app is simple, we have a main component called `A
   - Footer
 
 ## Future
+
 #### Core Logic
 The current implementation uses eval function which will be removed in future.
 A stack based approach will be implemented.
@@ -33,3 +34,6 @@ The list of features that I might develop in future:
 - Advance Calculations
 - Series generator (AP, GP, Fibonacci etc.)
 - Finding specific elements of a given series 
+
+#### Testing
+A test suite will be added in the future in order to verify the functionality of the app.
